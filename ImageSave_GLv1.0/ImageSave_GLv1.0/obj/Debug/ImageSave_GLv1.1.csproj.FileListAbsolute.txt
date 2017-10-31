@@ -1,0 +1,41 @@
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.exe.config
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.exe
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.dll
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\log4net.dll
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\log4net.xml
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1._0.mainForm.resources
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1._0.Properties.Resources.resources
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csproj.GenerateResource.Cache
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.exe
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.pdb
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.pdb
+C:\Users\gatil\OneDrive\Dokumentumok\Visual Studio 2017\Projects\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csprojResolveAssemblyReference.cache
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.exe.config
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.exe
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.pdb
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.exe
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.pdb
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\log4net.dll
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.pdb
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.xml
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\log4net.xml
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csprojResolveAssemblyReference.cache
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1._0.mainForm.resources
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1._0.Properties.Resources.resources
+D:\Letöltések\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csproj.GenerateResource.Cache
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.exe.config
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.exe
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.pdb
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.dll
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\log4net.dll
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\log4net.xml
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csprojResolveAssemblyReference.cache
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1._0.mainForm.resources
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1._0.Properties.Resources.resources
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csproj.GenerateResource.Cache
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.exe
+C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.pdb
