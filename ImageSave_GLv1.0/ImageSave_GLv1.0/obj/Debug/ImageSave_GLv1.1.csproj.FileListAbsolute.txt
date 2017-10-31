@@ -39,3 +39,17 @@ C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-
 C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csproj.GenerateResource.Cache
 C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.exe
 C:\Users\gatil\Downloads\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0-20170911T115453Z-001\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.pdb
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.exe.config
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.exe
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.0.pdb
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.exe
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\ImageSave_GLv1.0.pdb
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.dll
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\log4net.dll
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\bin\Debug\log4net.xml
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csprojResolveAssemblyReference.cache
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1._0.mainForm.resources
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1._0.Properties.Resources.resources
+C:\Users\plc-user\Documents\GitHub\ImageSave_GLv1.2\ImageSaveRepo\ImageSave_GLv1.0\ImageSave_GLv1.0\obj\Debug\ImageSave_GLv1.1.csproj.GenerateResource.Cache

@@ -69,8 +69,8 @@ namespace ImageSave_GLv1._0
             }
             else
             {
-                selectedPath = "C:\\Users\\gatil\\Desktop\\Képek";
-                pastepath = "C:\\Users\\gatil\\Desktop\\Output\\Képek";
+                selectedPath = "C:\\Users\\plc-user\\Documents\\Levente\\Krist";
+                pastepath = "C:\\Users\\plc-user\\Documents\\Levente\\Krist\\Images";
             }
           
             labelInfo.Text = "The pictures will be saved to: ";
