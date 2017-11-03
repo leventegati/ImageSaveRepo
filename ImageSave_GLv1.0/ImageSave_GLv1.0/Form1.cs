@@ -244,7 +244,7 @@ namespace ImageSave_GLv1._0
             
             String timestmp = DateTime.Now.ToString("yyyy-MM-dd HH_mm_ss");
             myCamera.SaveLastFrame(selectedPath + "\\" + timestmp + "_L.jpg", Jai_FactoryWrapper.ESaveFileFormat.Jpeg, 100);
-            this.Copy(selectedPath, pastepath);
+        //    this.Copy(selectedPath, pastepath);
             
         }
 
@@ -253,12 +253,9 @@ namespace ImageSave_GLv1._0
             return !Directory.EnumerateFileSystemEntries(path).Any();
         }
 
-        void Copy(string sourceDir, string targetDir)
+        void Copy(string sourceFile, string destinationFile)
         {
-            Directory.CreateDirectory(targetDir);
-
-            foreach (var file in Directory.GetFiles(sourceDir))
-                File.Copy(file, Path.Combine(targetDir, Path.GetFileName(file)));
+                File.Copy(sourceFile,destinationFile);
         }
 
         void Move(string sourceFile, string destinationFile)
